@@ -1,6 +1,6 @@
 # tahu
 
-$ pkg update && pkg upgrade
+$ pkg update && pkg upgrade <br>
 $ pkg install git
 $ git clone https://github.com/Kwntwl/tahu
 $ cd tahu
